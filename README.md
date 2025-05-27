@@ -4,9 +4,6 @@ Implement a linear regression model to predict the prices of houses based on the
 
 ## Task 1: Linear Regression for House Price Prediction
 
-**Dataset:** https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
-<br>
-
 This task is part of my internship at Prodigy InfoTech, where I implemented a machine learning model to predict house prices based on given features like square footage, number of bedrooms, and bathrooms. The task demonstrates the use of Linear Regression for predictive modeling.
 <br>
 
